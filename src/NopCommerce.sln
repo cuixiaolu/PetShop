@@ -77,7 +77,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.Payments.AliPay"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.Payments.Weixin", "Plugins\Nop.Plugin.Payments.Weixin\Nop.Plugin.Payments.Weixin.csproj", "{E1BBA3FD-1931-47D0-B7E6-B05C010B3B9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.HelloWorld.Test", "Nop.Plugin.HelloWorld.Test\Nop.Plugin.HelloWorld.Test.csproj", "{B99E8263-06FA-46F9-A788-4691D8A1F49D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.HelloWorld.Test", "Plugins\Nop.Plugin.HelloWorld.Test\Nop.Plugin.HelloWorld.Test.csproj", "{B99E8263-06FA-46F9-A788-4691D8A1F49D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
