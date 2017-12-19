@@ -1,0 +1,9 @@
+﻿Group: Payment methods
+FriendlyName: Lucio
+SystemName: Lucio.Test
+Version: 0.0.1
+SupportedVersions: 3.90
+Author: Lucio
+DisplayOrder: 1
+FileName: Nop.Plugin.HelloWorld.Test.dll
+Description: This payment module allows you to integrate with AliPay, payment module
